@@ -7,6 +7,7 @@ fun main() {
 
     println(ordersAmount)
 //    println(numOfEmployees)
+
     println(thanksGiving)
 
     numOfEmployees -= 1
