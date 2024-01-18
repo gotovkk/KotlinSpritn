@@ -12,5 +12,4 @@ fun main() {
     minute = 55
 
     println("Время посадки - ${String.format("%02d", hour)}:${String.format("%02d", minute)}")
-
 }
