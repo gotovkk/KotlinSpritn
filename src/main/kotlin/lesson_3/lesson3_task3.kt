@@ -1,7 +1,7 @@
 package lesson_3
 
 fun main() {
-    val number: Int = 9
+    val number: Int = 8
     val table: String = """
         $number * 1 = ${number * 1}
         $number * 2 = ${number * 2}
